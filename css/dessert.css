@@ -1,12 +1,12 @@
 body {
   text-align: center;
   margin-top: 30px;
-  font-family: courier;
-  background-color: #fff5e4;
-  color: #ff9494;
+  font-family: Allan;
+  background-color: #ebdaf1;
+  color: #1593b9;
 }
 #dessertquestion {
-  font-size: 50px;
+  font-size: 60px;
   margin-bottom: 30px;
   font-weight: bold;
 }
@@ -20,7 +20,7 @@ body {
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  border: 5px solid #ff9494;
+  border: 5px solid #7adcf57a;
   object-fit: cover;
   padding: 10px;
 }
